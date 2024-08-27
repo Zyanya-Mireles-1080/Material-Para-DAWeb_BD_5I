@@ -15,4 +15,8 @@ Tenemos link de referencia más documentos Agosto 2024
 - Páginas web para programación
 - https://www.w3schools.com/
 - Python https://www.w3schools.com/python/default.asp
-- Descargar Python https://www.python.org/downloads/
+- Descargar Python
+- https://www.python.org/downloads/
+
+- Programación en online
+- https://coddy.tech/
